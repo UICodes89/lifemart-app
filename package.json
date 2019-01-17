@@ -1,0 +1,28 @@
+{
+  "name": "Lifemart",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "android": "cd ./android && ./gradlew app:assembleDebug && ./gradlew installDebug"
+  },
+  "dependencies": {
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-navigation": "^2.1.3-patch.2",
+    "react-native-vector-icons": "^4.6.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.6.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

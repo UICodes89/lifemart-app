@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/blinkteam/.android/build-cache/d519ad894e3c4d32231cd858db6a981436f76bc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/blinkteam/Desktop/manoj/React-Native-APP/Lifemart/android/app/build/intermediates/pre-dexed/debug/classes_6429f6d47972708a1ee85b6e5087caf9a014d095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/blinkteam/.android/build-cache/d519ad894e3c4d32231cd858db6a981436f76bc2/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/blinkteam/Desktop/manoj/React-Native-APP/Lifemart/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8bd00b555def6f7109797f343a2cfc81418f5b26.jar" />
+    </item>
+
+</items>

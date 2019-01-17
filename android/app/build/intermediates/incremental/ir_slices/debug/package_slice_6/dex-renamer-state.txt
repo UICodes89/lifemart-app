@@ -1,0 +1,4 @@
+#Thu Jan 17 14:03:38 IST 2019
+base.0=/Users/blinkteam/Desktop/manoj/React-Native-APP/Lifemart/android/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
